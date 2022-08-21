@@ -1,8 +1,5 @@
 {
-  "mods": [
-    "husky-mod",
-    "jest-vue3-mod"
-  ],
-  "project_name": "xaf-js-threads",
+  "mods": ["husky-mod", "jest-vue3-mod"],
+  "project_name": "xaf-sandbox",
   "template_id": "vue3-plate"
 }
