@@ -1,0 +1,8 @@
+{
+  "mods": [
+    "husky-mod",
+    "jest-vue3-mod"
+  ],
+  "project_name": "xaf-js-threads",
+  "template_id": "vue3-plate"
+}
